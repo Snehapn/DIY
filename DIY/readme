@@ -1,0 +1,12 @@
+#Introduction
+In this module you will find login flow into app with valid credentials.
+
+
+#REQUIREMENTS
+This module require Android studio installed in your computer
+
+#Execution
+You need to open Android Virtual Device(AVD) before you run this test in your computer.
+
+#Reporting
+You can find html report of test execution under DIY->Reports->htmlreport.
